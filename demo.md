@@ -2,7 +2,7 @@
 
 In the following, we'll download training data for an image classification task, train a model, and run the model in inference using the low-to-no CVE Chainguard AI Image for PyTorch.
 
-The following commands will allow you to follow along during the Learning Lab on Chainguard's AI Images. For more detailed explanation, check out the [Getting Started tutorial for the pytorch image](https://edu.chainguard.dev/chainguard/chainguard-images/getting-started/pytorch/) or the [Securing the AI/ML Supply Chain ](https://courses.chainguard.dev/securing-ai) course.
+This is a quick demo with minimal explanation, but you can dig deeper in the [Getting Started tutorial for the pytorch image](https://edu.chainguard.dev/chainguard/chainguard-images/getting-started/pytorch/) or the [Securing the AI/ML Supply Chain ](https://courses.chainguard.dev/securing-ai) course.
 
 ## Training the Model
 
@@ -14,7 +14,7 @@ Before running, consider reviewing the following files that will be downloaded:
 - [Training data](https://github.com/chainguard-dev/pytorch-getting-started/tree/main/data/octopus-penguin-whale/train)
 - [Validation data](https://github.com/chainguard-dev/pytorch-getting-started/tree/main/data/octopus-penguin-whale/val)
 
-[Problem with the commands? Create an issue](https://github.com/chainguard-dev/pytorch-getting-started/issues/new?template=Blank+issue)
+[Problem with the commands? Create an issue](https://github.com/smythp/old_new_strange_swampup_2024/issues/new)
 
 Training command:
 
